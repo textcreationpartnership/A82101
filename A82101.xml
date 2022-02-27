@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of great Lucifer, prince of the ayre, and of divells, and of all the damned crew in hell. In answer to a petition presented to them by a Parliament man. Dated in August 1648.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82101</idno>
+            <idno type="STC">Wing D609</idno>
+            <idno type="STC">Thomason E461_4</idno>
+            <idno type="STC">ESTC R205157</idno>
+            <idno type="EEBO-CITATION">99864594</idno>
+            <idno type="PROQUEST">99864594</idno>
+            <idno type="VID">162159</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162159)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E461[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of great Lucifer, prince of the ayre, and of divells, and of all the damned crew in hell. In answer to a petition presented to them by a Parliament man. Dated in August 1648.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in Hell neere Westminster,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug ye:26:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Place of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century --  Early works to 1800.</term>
+               <term>Royalists --  England --  17th Century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162159:1" rendition="simple:additions"/>
+            <p>A DECLARATION of Great <hi>L<g ref="char:V">Ʋ</g>CIFER,</hi> Prince of the Ayre, and of Divells, and of all the damned crew in Hell. In Anſwer to a Petition preſented to them by a Parliament Man, Dated in Auguſt 1648.</p>
+            <p>Printed in Hell neere Weſtminſter. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="satirical_declaration">
+            <pb facs="tcp:162159:2"/>
+            <pb n="3" facs="tcp:162159:2"/>
+            <head>A Declaration of great <hi>Lucifer, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Rue, truſty, and well-beloved ſervants of great <hi>Lucifer</hi> throughout the whole world, eſpecially you of the Kingdome of England, our ſpeciall benediction; where<g ref="char:EOLhyphen"/>as wee have received a petition which was lately preſented to us by the hands of ſome of our obedient ſervants, contain<g ref="char:EOLhyphen"/>ning ſundry Acts, Paſſages, Orders and Ordinances, by you commanded, and by the people in generall performed to the great advance of our Kingdome, in which you deſire our approbation by way of petition, which wee have looked upon as acts of great concernment; for whereas you ſay you have ſhooke off all Loyalty and honeſty, and have rai<g ref="char:EOLhyphen"/>ſed an Army and fought againſt your King, and tooke him priſoner, where he at this day remaines under your cuſtody to your great applauſe, and have managed a war for the ſpace of ſeaven yeares or well nigh; and hunted your Queen out of the Land, and driven your Prince away, tooke your Kings revenew from him, and left him nothing but what you judge meet for ſuch a one, and maintained your ſelves like Princes with congratulatory gifts, and alſo as you ſay, you have ſold many or all the Biſhops Lands, where<g ref="char:EOLhyphen"/>with you have encreaſed your owne eſtates and Lands, and murdered the good people of the Land, and voted thoſe to be Traytours that have riſen in armes againſt you, and ſet up an Exiciſe Office, where you receive and gather in the fat of the Land, and the fruits of the Kingdome: And alſo have (to keep the people in ſubjection) ſettled a Committee at Goldſmiths Hall, at Darby houſe, and ſuch like places, that whoſoever misbehaveth himſelfe, breakes your Orders, or will not pay thoſe aſſeſſements that you in your wiſdome
+<pb n="4" facs="tcp:162159:3"/>thinke meet to be paid for your uſe, and have iſſued many warrants to bring refractory perſons, and have procured Knights of the Poſt to ſweare point blancke againſt ſuch, and have commanded to plunder, to kill and ſlay your oppo<g ref="char:EOLhyphen"/>ſers, and have maintained Sectaries, Diviſions, Hereſies, A<g ref="char:EOLhyphen"/>nabaptiſts, Independency, Presbyters, Sects, Schiſmes, ſa<g ref="char:EOLhyphen"/>criledge, blaſphemy, and what not, to the advance of our Kingdome, and have countenanced treaſon, and rebellion, applauded Rebels, rewarded murthers, fomented untruths, falcified Oathes broken Covenants, robbed the people, and uſed that moſt excellent art of equivocating; for theſe Acts, and deeds, and ſuch like, which we have not time at preſent to recapitulate; we accept, affect, applaud, and approve; and put the caſe you faile in any thing that you cannot procure, nor compaſſe by wit or art to obtaine, be it on the Seas, or on the Land, or under the earth; yea be it in the ayre, wee with our politick, wiſe, crafty complices, will accompliſh your deſire, though the whole world were engaged againſt you; for what have we not power to command the whole earth? yea we have, and it will obey, for in the twinckling of an eye we have our deſire, and our ſervants ſhall be yours to command, be the act never ſo unjuſt, for with their helpe you ſhall ſubdue, only thus much you muſt acknowledge this to be of our great power, and impute nothing of it to your ſelves; in this throne we are greateſt, and as you have done moſt worthily hitherto, and as it becomes our obedient ſer<g ref="char:EOLhyphen"/>vants; ſo we exhort you, and command you in our name to perſiſt in theſe wayes, for we are the great paymaſter in the world, and if wee ſet you on worke be ſure we will pay you your wages.</p>
+            <p>Wherefore we ſay againe, that we do approve of all and every act by you done, or ſhall doe in this kind, for its done to the advancement of our Kingdome, and we are joyfull to heare that we have ſuch faithfull and diligent ſervants, that are ſo willing to performe our will, and as you have beene thus carefull and forward to execute our Lawes, and main<g ref="char:EOLhyphen"/>taine ſuch acts; we doe here adde and ordaine other Laws
+<pb n="5" facs="tcp:162159:3"/>to be executed and put in practice by you, as you will anſwer the contrary at you perill.</p>
+         </div>
+         <div type="satirical_declaration">
+            <head>A Declaration with Orders of <hi>Lucifer,</hi> Prince of Divels, and of all the infernall Princes, and damned crew in Hell.</head>
+            <p>For as much as our Kingdome extends it ſelfe to the ut<g ref="char:EOLhyphen"/>termoſt parts of the earth; and we are the greateſt Conque<g ref="char:EOLhyphen"/>rors that ever the world bred; for no Emperour, King, or Potentate, be he or they never ſo mighty, is able to with<g ref="char:EOLhyphen"/>ſtand our ſtrength, or any of our ſervants or agents whom we imploy in our cauſe.</p>
+            <p>Wherefore we great <hi>Lucifer,</hi> Prince of Devils, with the approbation of our infernall privy Counſell, doe order and declare (for theres no cauſe but we may declare as well as others, having the moſt pollitick and ſubteleſt under the earth to be our Counſellours) and by whom other Counſels are ingaged for advice, as followeth:</p>
+            <p>That I great <hi>Lucifer,</hi> Prince of the aire, am the Father of all lyes, murthers, adulteries, blaſphemies, inceſt, ſacri<g ref="char:EOLhyphen"/>ledge, rapines, coveteouſneſſe, drunkeneſſe, ſwearing, whoredomes, contempts, backbiting, ſlanders, diſſembling, and all manner of wickedneſſe whatſoever can be named: and I with the reſt of my diveliſh Counſellours, will main<g ref="char:EOLhyphen"/>taine, defend, preſerve, and put in practice, ſet forward, and helpe theſe and the like deſignes upon any perſon or per<g ref="char:EOLhyphen"/>ſons, he or ſhe, of what degree or calling ſo ever they be, whether Kings, Princes, Lords, Earles, or Potentates, rich or poore, yong or old, I, I ſay will tempt, intice, provoke, and perſwade withall manner of ſlights, baits and ſuggeſti<g ref="char:EOLhyphen"/>ons; that men and women commit theſe, and ſuch like, by all the meanes and wayes that can be uſed, whether in ſecret or publick, openly or privately, by night or by day, ſleeping or waking, without giving reſt to any, no not for a minute; yea their beſt actions ſhall be worſt performed, and to make this more evident to the whole world, I with advice of
+<pb n="6" facs="tcp:162159:4"/>my helliſh infernall Counſell of the upper Region, and the lower Hell, doe order.</p>
+            <p>
+               <hi>Imprimis,</hi> Tis ordered and judged meet by us Imps of Hell, that all creatures ſhall and may have as many Idols as they pleaſe, whether Parliament Idols, Goldſmiths Hall Idols, or Exciſe Idols, and ſhall and may make as many kinde of I<g ref="char:EOLhyphen"/>dols, of gold or ſilver, wood or ſtone, Parliament man or Committee man, to hug them, and ſhall and may ſet them up in any place whereſoever in earth or hell, ſea or land, Tem<g ref="char:EOLhyphen"/>ple or market place, Weſtminſter or London, or in their owne hearts, and ſhall bow, and cringe to them as oft as they pleaſe.</p>
+            <p>
+               <hi>Item,</hi> its agreed by the infernall Councell of Hell that all daies ſhall be alike to do any kinde of ſervice, except Fa<g ref="char:EOLhyphen"/>ſting daies; and tis ordered that they keep one day in a Moone-ſhine, and to offer up their little Idol mony as a ſa<g ref="char:EOLhyphen"/>crifice to us: And before ſuch Moone-ſhine day, the foure Windes ſhall blow foure ſeverall wayes to give notice, and to put them in minde to prepare themſelves for that day of Moone-ſhine, to meet at the unholy Court called the ſacri<g ref="char:EOLhyphen"/>ficing Mount: in Engliſh, the Committees of Gold-ſmiths Hall.</p>
+            <p>
+               <hi>Item,</hi> wee act if any man come into the world without Father or Mother, or our help to beget them, or if any Ma<g ref="char:EOLhyphen"/>lignant beget another, they ſhall curſe their begetters, and their genitors (Parliament and godleſſe men excepted) and tolleration ſhall be given to all Rebels to curſe, Autho<g ref="char:EOLhyphen"/>rities to raile at government, and Governours, to diſpiſe dignities, to live without order, to make one another o<g ref="char:EOLhyphen"/>dious, to practiſe treaſons and rebellions, and to make eve<g ref="char:EOLhyphen"/>ry thing mine and thine, and the longeſt liver take all, what the Divell leaves.</p>
+            <p>
+               <hi>Item,</hi> wee hold it Lawfull, and it is a commendable deed of darkneſſe, to imbrew one anothers hands in the bloud of others, and to hang up all Royaliſts, eſpecially thoſe that will not ſubmit to our Lawes, and whether this act bee done inwardly by potions, or outwardly by weapons,
+<pb n="7" facs="tcp:162159:4"/>we value it not, provided it be done to the life, yea of Kings.</p>
+            <p>
+               <hi>Item,</hi> it is acted that it ſhall be Lawfull for any one to co<g ref="char:EOLhyphen"/>ver, or any to proſtitute themſelves to any one, whether his or hers be ſleeping or waking: provided it be done that none ſees it; and further by the ſaid power it is held Law<g ref="char:EOLhyphen"/>full, that if any attempt this act, to any kinde of cattle, beaſt, ſwine, or Dogs, it ſhall be tollerable, yea and to foule <hi>Martin.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> we judge it Lawfull to rob, carry away, or to take any thing that is anothers in ſpite of their noſes, whether we want it or not, and who ſo ſhall withſtand us ſhall be torne in pieces with Divels: the Divell take them.</p>
+            <p>
+               <hi>Item,</hi> it is Lawfull to back-bite, ſlander, revile, and betray any one, be they friend or foe. Noble or ignoble, alwaies provided that before ſuch an act they have recourſe to our high Court, or to ſome of our Committees, and from them procure a commiſſion for the ſame.</p>
+            <p>
+               <hi>Item,</hi> it is ordered, and held Lawfull to deſire anothers eſtate, Land, money, riches, wealth, wives, or children, or whatſoever is anothers, be it never ſo good, or never ſo faire, or never ſo much, ſo it be to ſatisfie our luſts, and to take any thing from any mans dwelling, bed, or board: provided it be done in a coveteous way, and he eſteemed a malignant or popiſh delinquent.</p>
+            <p>Laſtly, it is agreed and concluded upon that we will that all men be as we are, Lyars, murtherers, blaſphemers, ſwea<g ref="char:EOLhyphen"/>rers, diſſemblers, hypocrites, drunkards, idolaters, revellers, covenant breakers, haters of honeſt men, becauſe we ſhall never come or have to do where honeſt men are, but ſhall alwaies remaine bathing our ſelves in the lake of hell where we would that all falſe aſſemblers ſhould be pertakers with us, to the advancement of our Kingdome without any diſ<g ref="char:EOLhyphen"/>ſolution or rejouring.</p>
+            <closer>
+               <signed>Unto which Articles, and orders we Lucifer with our Princes, Lords, Earles, and Preſidents of our Kingdome whoſe names are heere under written, have ſealed, ſigned,
+<pb n="8" facs="tcp:162159:5"/>and aſſented unto, and ſet their helliſh clawes.
+<list>
+                     <item>
+                        <hi>Lucifer.</hi>
+                     </item>
+                     <item>
+                        <hi>Belzebub</hi> a King.</item>
+                     <item>
+                        <hi>Aſtoroth</hi> a Duke.</item>
+                     <item>
+                        <hi>Berith</hi> a Duke.</item>
+                     <item>
+                        <hi>Bilith</hi> a Preſident.</item>
+                     <item>
+                        <hi>Demas</hi> a Marqueſſe.</item>
+                     <item>
+                        <hi>Baal Peor</hi> a Lord.</item>
+                     <item>
+                        <hi>Satan</hi> a Captaine.</item>
+                     <item>
+                        <hi>Belimoth</hi> a Duke.</item>
+                     <item>
+                        <hi>Diabolus</hi> a Lord.</item>
+                     <item>
+                        <hi>Demonon</hi> a King.</item>
+                  </list>
+               </signed>
+               <dateline>Given at our high infernall Court and Pallace of darknes, <date>this 32. of the month, and in the five thouſand ſix hundred and fifty eighth yeare of our raigne over the whole world.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>If any be pleaſed to liſt themſelves under any of our Offi<g ref="char:EOLhyphen"/>cers whom we ſhall appoint, and ſet over to fight our Bat<g ref="char:EOLhyphen"/>tles, let them repaire to our Court of Limbo, or Purgato<g ref="char:EOLhyphen"/>ry, neere Weſtminſter, where they may liſt ſoule or body, go as faſt on foot or horſeback as any of the Members.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
